@@ -4,8 +4,9 @@
 
 <!--- * __General__: -->
 
+
 [![JoelvsHimself's GitHub stats](https://github-readme-stats.vercel.app/api?username=joelvshimself&theme=default&show_icons=true&bg_color=00000000&border_color=00000000&title_color=4892FF&icon_color=4892FF&text_color=78818d&hide=prs,issues "JoelvsHimself's GitHub Stats")](https://github.com/joelvshimself)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joelvshimself&layout=compact&bg_color=00000000&border_color=00000000&title_color=
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joelvshimself&layout=compact&bg_color=00000000&border_color=00000000&title_color=4892FF&text_color=78818d&hide=c%23 "Most Used Languages")](https://github.com/joelvshimself)
 
 
 
